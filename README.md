@@ -2,6 +2,8 @@
 
 Prototype for running predictable, IO-bound benchmarks in an ocurrent pipeline. This is *work in progress*.
 
+A live version of the pipeline is deployed for the [irmin project](https://github.com/mirage/irmin) and can its output can seen [here](http://autumn.ocamllabs.io/mirage/irmin/).
+
 ## Enroll your project
 
 If you want to enroll your repository or setup this benchmark repository for your repository, we make the following assumptions.
